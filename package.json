@@ -1,0 +1,15 @@
+{
+  "name": "tripskip-publisher",
+  "version": "1.0.0",
+  "description": "TripSkip social media publisher - getLate.dev integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
